@@ -1,9 +1,13 @@
-# DogeIronmanGraphics
- Combination of some mods that I always play with it
+# Doge Ironman Graphics
+ Combination of  mods that I always play with it and are Ironman Compatible. 
 
 
- Best Unit Type+ by leonissenbaum
-    Colours the good unit types but also adds clarity to Indian events.
 
+**MODS ADDED**
+Best Unit Type+ by leonissenbaum
 Simple Fog of War by xoiben
-   Makes the Fog of War lighter and better imo
+Graphical Map Improvements Flat Map by Isaiah
+Uncovered Peace Acceptance Indicator by Arumba, fixed by It Me
+Thick Borders v2.0 by In Heaven
+Cleaner Peace Terms by Parasite03
+
