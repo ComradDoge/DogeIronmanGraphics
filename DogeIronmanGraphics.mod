@@ -4,5 +4,7 @@ tags={
 	"Map"
 	"Fixes"
 }
+picture="doge.png"
 supported_version="1.30.*.*"
-path="mod/DogeIronmanGraphics"
+path="C:/Users/raimu/Documents/Paradox Interactive/Europa Universalis IV/mod/DogeIronmanGraphics"
+remote_file_id="2126283367"
