@@ -10,3 +10,6 @@ Simple Fog of War by xoiben
 
 Cleaner Peace Terms by Parasite03
    Makes the Peace terms more readable
+
+Thick Borders v2.0 by In heaven
+   Borders are thicc
