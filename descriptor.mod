@@ -5,6 +5,6 @@ tags={
 	"Fixes"
 	"Ironman"
 }
-picture="doge.png"
+picture="thumbnail.png"
 supported_version="1.30.*.*"
 path="mod/Doge_Ironman_Graphics"
