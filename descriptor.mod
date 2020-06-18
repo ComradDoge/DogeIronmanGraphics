@@ -7,3 +7,4 @@ tags={
 }
 picture="doge.png"
 supported_version="1.30.*.*"
+path="mod/Doge_Ironman_Graphics"
