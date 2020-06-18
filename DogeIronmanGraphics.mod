@@ -1,8 +1,9 @@
-name="Doge Ironman Graphics"
+name="Doges Ironman Graphics"
 tags={
 	"Graphics"
 	"Map"
 	"Fixes"
+	"Ironman"
 }
 picture="doge.png"
 supported_version="1.30.*.*"
