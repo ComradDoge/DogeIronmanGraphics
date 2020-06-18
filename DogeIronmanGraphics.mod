@@ -1,4 +1,4 @@
-name="Doges Ironman Graphics"
+name="Doge Ironman Graphics"
 tags={
 	"Graphics"
 	"Map"
