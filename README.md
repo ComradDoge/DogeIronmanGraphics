@@ -1,4 +1,4 @@
-# Doges Ironman Graphics
+# Doge Ironman Graphics
  Combination of  mods that I always play with it and are Ironman Compatible. 
 
 
@@ -23,6 +23,3 @@ Better Terra Incognita by bucaneer
 
 Rivers made brighter and have more contrast, should make this easier to see on the map
 The ocean is a different shade of blue and more appealing
-
-
-
