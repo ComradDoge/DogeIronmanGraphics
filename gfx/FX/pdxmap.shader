@@ -567,7 +567,7 @@ PixelShader =
 		#endif
 			{
 				vTerrainDiffuseSample.rgb = GetOverlay( vTerrainDiffuseSample.rgb, TerrainColor, 0.75f );
-				vTerrainDiffuseSample.rgb = ApplySnow( vTerrainDiffuseSample.rgb, Input.prepos, vHeightNormalSample, vFoWColor, FoWDiffuse );
+				//vTerrainDiffuseSample.rgb = ApplySnow( vTerrainDiffuseSample.rgb, Input.prepos, vHeightNormalSample, vFoWColor, FoWDiffuse );
 				
 				float2 vBlend = float2( 0.54f, 0.5f );
 				vOut = ( dot( vTerrainDiffuseSample.rgb, GREYIFY ) * vBlend.x + vColorMapSample.rgb * vBlend.y );
