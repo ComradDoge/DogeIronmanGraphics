@@ -6,6 +6,6 @@ tags={
 	"Ironman"
 }
 picture="thumbnail.png"
-supported_version="1.30.*.*"
+supported_version="1.31.*.*"
 path="C:/Users/raimu/Documents/Paradox Interactive/Europa Universalis IV/mod/Doge_Ironman_Graphics"
 remote_file_id="2133694165"
