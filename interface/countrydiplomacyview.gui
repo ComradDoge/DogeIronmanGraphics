@@ -1150,35 +1150,6 @@ guiTypes = {
 		}
 
 		guiButtonType = {
-			name = "increase_trust"
-			position = { x = 490 y = 408 }
-			quadTextureSprite ="GFX_increase_trust_button"
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-#			buttonText = "INCREASE_TRUST"
-#			buttonFont = "vic_18"
-		}
-
-		guiButtonType = {
-			name = "prepare_for_war"
-			position = { x = 490 y = 455 }
-			quadTextureSprite ="GFX_prepare_for_war_button"
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-#			buttonText = "PREPARE_FOR_WAR"
-#			buttonFont = "vic_18"
-		}
-
-		iconType = {
-			name = "prepare_for_war_glow"
-			spriteType = "GFX_unitpanel_button_large_glow"
-			position = { x = 490 y = 455 }
-			Orientation = "UPPER_LEFT"
-		}
-
-		guiButtonType = {
 			name = "button_view_player_country"
 			if_resolution = {
             max_height = 867
