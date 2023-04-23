@@ -1,4 +1,4 @@
-name="1.34 Doge - Ironman Graphics"
+name="1.35 Doge - Ironman Graphics"
 tags={
 	"Graphics"
 	"Map"
@@ -6,5 +6,5 @@ tags={
 	"Ironman"
 }
 picture="thumbnail.png"
-supported_version="1.34.*"
+supported_version="1.35.*"
 path="mod/Doge_Ironman_Graphics"
